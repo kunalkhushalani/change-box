@@ -1,0 +1,23 @@
+body {
+  background-color: #78909c;
+  font-family: sans-serif;
+}
+
+.input-field {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 5px;
+  margin-bottom: 4px;
+}
+
+.input-field-invalid {
+  border: 1px solid red;
+}
+
+.error-message {
+  color: red;
+  font-size: 14px;
+}
+
+
+/*# sourceMappingURL=styles.css.map*/
